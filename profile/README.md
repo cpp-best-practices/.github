@@ -12,7 +12,7 @@ The C++ Best Practices organization is also used to host a [Game Jam](https://gi
 
 # Sponsors
 
-Sponsors at the "Corporate" level will be listed here.
+Sponsors at the "Corporate" level and above will be listed here.
 
 
 # Becoming a Sponsor
